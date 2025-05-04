@@ -1,6 +1,6 @@
 FROM debian:stable-slim
 
-ARG ASDF_VERSION=v0.16.5
+ARG ASDF_VERSION=v0.16.7
 
 WORKDIR /
 SHELL ["/bin/bash","-exc"]
