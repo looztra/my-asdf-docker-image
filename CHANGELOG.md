@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/looztra/my-asdf-docker-image/compare/v1.0.1...v1.1.0) (2025-05-04)
+
+
+### Features
+
+* **asdf:** use asdf v0.16.7 ([#16](https://github.com/looztra/my-asdf-docker-image/issues/16)) ([1cbe320](https://github.com/looztra/my-asdf-docker-image/commit/1cbe32041873c5bf0ef9aeb9d95c5aaa2476f91d))
+
 ## [1.0.1](https://github.com/looztra/my-asdf-docker-image/compare/v1.0.0...v1.0.1) (2025-03-19)
 
 
