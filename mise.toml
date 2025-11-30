@@ -1,6 +1,6 @@
 [tools]
 editorconfig-checker = "3.2.1"
-pre-commit = "4.2.0"
+pre-commit = "4.5.0"
 shellcheck = "0.10.0"
 shfmt = "3.11.0"
 uv = "0.7.2"
