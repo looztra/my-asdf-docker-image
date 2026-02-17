@@ -4,4 +4,4 @@ editorconfig-checker = "3"
 "pipx:taplo" = { version = "0.9.3", uvx = "true" }
 shellcheck = "0.11"
 shfmt = "3"
-uv = "0.10.2"
+uv = "0.10.4"
